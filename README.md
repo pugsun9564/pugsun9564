@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img alt="Java" src ="https://img.shields.io/badge/eclipseide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white"/> 
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 
-## 💻 ...
+## 💻 Contect Me
 <a href = "https://github.com/pugsun9564"><img alt="GitHub" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> 
-<a href = "https://for-it-study.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
-<a href = "hun-se.slack.com"> <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/></a>
+<a href = "https://velog.io/@woongs_develop"> <img alt="Velog" src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge"/></a>
+<a href = "pogoyong9564@gmail.com"> <img alt="E-mail" src ="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
