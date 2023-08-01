@@ -28,4 +28,3 @@ Here are some ideas to get you started:
 ## 💻 The things I did
 
 <a href = "https://github.com/pugsun9564"><img alt="GitHub" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> 
-<a href = "https://velog.io/@woongs_develop"> <img alt="Velog" src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge"/></a>
